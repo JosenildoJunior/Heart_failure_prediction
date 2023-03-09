@@ -4,11 +4,11 @@ O objetivo desse projeto é perfis e prever pacientes com risco de Insuficiênci
  
 Para esse projeto de Data Science as seguintes etapas foram seguidas:
 
-Obtenção dos dados
-Análise Exploratória dos dados
-Pré-processamento
-Modelos de Machine Learning
-Tunagem de Hiperparâmetros
-Avaliação do modelo
+* Obtenção dos dados
+* Análise Exploratória dos dados
+* Pré-processamento
+* Modelos de Machine Learning
+* Tunagem de Hiperparâmetros
+* Avaliação do modelo
 
  
