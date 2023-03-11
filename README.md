@@ -4,6 +4,7 @@ O objetivo desse projeto é perfis e prever pacientes com risco de Insuficiênci
  
 Para esse projeto de Data Science as seguintes etapas foram seguidas:
 
+* Entendimento do problema
 * Obtenção dos dados
 * Análise Exploratória dos dados
 * Pré-processamento
