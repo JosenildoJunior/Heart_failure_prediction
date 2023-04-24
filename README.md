@@ -12,4 +12,4 @@ Para esse projeto de Data Science as seguintes etapas foram seguidas:
 * Tunagem de Hiperparâmetros
 * Avaliação do modelo
 
- 
+ **Aqui está o link do projeto:** https://github.com/JosenildoJunior/Heart_failure_prediction/blob/main/Heart_failure_prediction.ipynb
